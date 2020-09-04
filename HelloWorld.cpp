@@ -7,4 +7,6 @@ int main(){
     cout << num1 + num2 << endl;
     cout << "hola" << endl;
     cout << "new line to check a pull is succesful!" << endl;
+    int num = 3;
+    cout << num << endl;
 }
