@@ -9,5 +9,4 @@ int main(){
     cout << "new line to check a pull is succesful!" << endl;
     int num = 3;
     cout << num << endl;
-    cout << num * 2 << endl; // Newline 
 }
